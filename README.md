@@ -5,3 +5,4 @@ Spark projects:
 2. Average Friends by Age in a Social Network
 3. Minimum Temperature by Location
 4. Counting Word Occurrences in a Book
+5. Total Amount Spent by Customer
