@@ -1,4 +1,4 @@
-# Spark-Course
+# Spark-Projects
 Spark projects:
 
 1. Ratings Histogram
@@ -6,3 +6,4 @@ Spark projects:
 3. Minimum Temperature by Location
 4. Counting Word Occurrences in a Book
 5. Total Amount Spent by Customer
+6. Superhero Degrees of Separation
