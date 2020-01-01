@@ -7,3 +7,4 @@ Spark projects:
 4. Counting Word Occurrences in a Book
 5. Total Amount Spent by Customer
 6. Superhero Degrees of Separation
+7. Find the Most Popular Movie using Broadcast Variable
